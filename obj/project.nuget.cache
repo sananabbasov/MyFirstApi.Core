@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "3kYD8oUy5yfhKhVQ93WGYK0kHYNc7c4cc9IDewBrdFQQBGypxd4k7S0F7j0pV43NJfvuVALuTsoYw8qVfF1+Tw==",
+  "success": true,
+  "projectFilePath": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi.Core/MyFirstApi.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/sanan/.nuget/packages/microsoft.entityframeworkcore/8.0.5/microsoft.entityframeworkcore.8.0.5.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.5/microsoft.entityframeworkcore.abstractions.8.0.5.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.5/microsoft.entityframeworkcore.analyzers.8.0.5.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
